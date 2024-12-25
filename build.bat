@@ -1,0 +1,1 @@
+cls && g++ Shape.cpp Circle.cpp example-16-dec-2024.cpp -o example-16-dec-2024.exe && example-16-dec-2024.exe
